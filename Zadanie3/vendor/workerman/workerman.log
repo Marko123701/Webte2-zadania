@@ -1,0 +1,43 @@
+2023-04-21 21:27:10 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught Exception: class \Protocols\Https not exist in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php:2420
+Stack trace:
+#0 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(2342): Workerman\Worker->parseSocketAddress()
+#1 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1477): Workerman\Worker->listen()
+#2 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1399): Workerman\Worker::forkWorkersForWindows()
+#3 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(560): Workerman\Worker::forkWorkers()
+#4 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\server2.php(79): Workerman\Worker::runAll()
+#5 {main}
+  thrown in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php on line 2420"
+2023-04-21 21:27:28 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught Exception: class \Protocols\Https not exist in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php:2420
+Stack trace:
+#0 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(2342): Workerman\Worker->parseSocketAddress()
+#1 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1477): Workerman\Worker->listen()
+#2 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1399): Workerman\Worker::forkWorkersForWindows()
+#3 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(560): Workerman\Worker::forkWorkers()
+#4 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\server2.php(79): Workerman\Worker::runAll()
+#5 {main}
+  thrown in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php on line 2420"
+2023-04-21 21:27:47 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught Exception: class \Protocols\Https not exist in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php:2420
+Stack trace:
+#0 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(2342): Workerman\Worker->parseSocketAddress()
+#1 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1477): Workerman\Worker->listen()
+#2 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1399): Workerman\Worker::forkWorkersForWindows()
+#3 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(560): Workerman\Worker::forkWorkers()
+#4 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\server2.php(79): Workerman\Worker::runAll()
+#5 {main}
+  thrown in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php on line 2420"
+2023-04-21 22:00:34 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught Exception: The requested address is not valid in its context in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php:2356
+Stack trace:
+#0 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1477): Workerman\Worker->listen()
+#1 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1399): Workerman\Worker::forkWorkersForWindows()
+#2 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(560): Workerman\Worker::forkWorkers()
+#3 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\server2.php(79): Workerman\Worker::runAll()
+#4 {main}
+  thrown in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php on line 2356"
+2023-04-21 22:00:42 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught Exception: The requested address is not valid in its context in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php:2356
+Stack trace:
+#0 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1477): Workerman\Worker->listen()
+#1 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(1399): Workerman\Worker::forkWorkersForWindows()
+#2 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php(560): Workerman\Worker::forkWorkers()
+#3 C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\server2.php(79): Workerman\Worker::runAll()
+#4 {main}
+  thrown in C:\Users\mmatu\Desktop\SKOLA\6.SEMESTER\WEBTE2\Zadanie3\vendor\workerman\workerman\Worker.php on line 2356"

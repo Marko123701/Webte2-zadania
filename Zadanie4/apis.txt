@@ -1,0 +1,6 @@
+google api
+unsplash
+restcountries
+openweathermap
+opencagedata
+geonames
